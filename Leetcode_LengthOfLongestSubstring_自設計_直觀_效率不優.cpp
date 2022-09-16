@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cstring> //提供.length
 
 using namespace std;
 
